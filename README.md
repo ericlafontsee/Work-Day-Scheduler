@@ -23,18 +23,29 @@ https://ericlafontsee.github.io/Work-Day-Scheduler/
 
 
 ## Built With
-HTML  
-CSS  
-jQuery
-BootStrap   
-Font Awesome
-Google Fonts
-Moment.js
+HTML    
+CSS    
+jQuery  
+BootStrap     
+Font Awesome  
+Google Fonts  
+Moment.js  
+Background image from www.subtlepatterns.com 
 
 ## Prerequisites
 To build or edit this application you will need Visual Studio Code or a text editor
 
 ## Installation
+To utilize the background image from www.subtlepatterns.com, download the background into your images folder. Then place the following in your css:
+
+```css
+ body {
+  background-image: url("images/gplaypattern.png");
+  background-repeat: repeat;
+  background-position: center;
+}
+```
+
 To utilize Moment.js, place the following script at the end of your HTML body:
 
 ```html
