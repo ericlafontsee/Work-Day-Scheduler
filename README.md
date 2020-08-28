@@ -1,8 +1,8 @@
 # Work-Day-Scheduler
 
 ## Description
-For our homework assignment, we were asked to create a work day scheduler   
-that is dynamically updated with jQuery. Events are color coded based on   
+For our homework assignment, we were asked to create a workday scheduler   
+that is dynamically updated with jQuery. Events are color-coded based on   
 the hour displayed at the top. Past events will be gray,  
 present events will be red, and future events will be green. All events  
 are saved to local storage so the user can exit the application and come   
